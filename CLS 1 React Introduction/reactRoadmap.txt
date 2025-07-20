@@ -1,0 +1,52 @@
+                 React Rodmap 
+
+Q. Why learn React ? 
+# React helps in making easy to manage & build complex & interactive SPA frontend UI.(1 btn click p 3-4 places mn changes ho).
+# SPA -> page kabhi reload na ho.
+# Top companies uses React today -> Meta, Instagram, Whatsapp, Netflix.
+# Hype, jobs, trending. 
+
+
+Q. When learn React ? 
+# After mastering JS.
+# jab aap projects pura JS se he bna dein react ke as such zaroorat na pade apko.
+
+
+Q. react history =>
+# first released - 2013 (by Meta) by Jordan Walke
+
+
+Q. React is Library
+Framework (like Army) => sab rules ka dhyaan rakha jata hn.
+Library (like Cool Dude) => freedom zayda 
+
+
+Q. Topics in React to learn ->
+   -------------------------
+# Core React ( state or UI manipulation, JSX)
+# Component Reusability (Header / button / cards ko ek baar bna k multiple jgah use kse karein)
+# Reusing of components (props) -> mns Object ke properties
+# How to propogate changes using -> useState, useEffect() etc.
+
+
+Q. Addition React addons (additionally installed krna pdta hn react don't have these features) ->
+   -------------------------------------------------------------------------------------------
+# Router (page navigation & page manipulation) => Additional library
+# state management ()  => Additional library like [Redux, Redux Toolkit, Zustand, context API]
+# BAAS (Backend as a Service) frontend k liye database => firebase, appwrite, superbase
+
+
+Q. React se better NextJS kyu
+  ----------------------------
+   Feature            React                NextJS
+1. SEO               Weak                Strong
+1. Routing           manually setup     File-based auto         
+1. Backend APIs     Alag bnane pdti hn    Built-in API Folder                    
+1. Image Optimization   Manually         Auto              
+1. Deployment            Manual          Vercel with 1 click   
+
+
+Q. After ReactJs learn frameworks -> NextJs(Frontend + Backend ek hi jagah API Routes bhi bna sakte ho) -> mns alag se NodeJs ya Express app bnana nhi pdta.
+
+
+Q. Node.js = JavaScript ko browser ke bahar computer mn (VS Code ya terminal) ya server pe chalane deta hn.
